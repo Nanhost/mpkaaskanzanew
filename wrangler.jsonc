@@ -1,0 +1,9 @@
+{
+  "name": "mpk-ahwaya-aradhana",
+  "main": "src/worker.js",
+  "compatibility_date": "2025-09-01",
+  "assets": { "directory": "./public" },
+  "kv_namespaces": [
+    { "binding": "MPK_KV", "id": "ISI_ID_KV_DI_SINI" }
+  ]
+}

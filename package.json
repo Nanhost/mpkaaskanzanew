@@ -1,0 +1,13 @@
+{
+  "name": "mpk-ahwaya-aradhana",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Website Forum MPK SMKN 1 Cilacap - MPK AHWAYA ARADHANA (Cloudflare Workers)",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4"
+  }
+}
